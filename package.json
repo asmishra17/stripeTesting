@@ -1,0 +1,22 @@
+{
+  "name": "stripe",
+  "version": "1.0.0",
+  "description": "playing with stripe api",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmishra17/stripeTesting.git"
+  },
+  "keywords": [
+    "skip"
+  ],
+  "author": "jfskl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmishra17/stripeTesting/issues"
+  },
+  "homepage": "https://github.com/asmishra17/stripeTesting#readme"
+}
